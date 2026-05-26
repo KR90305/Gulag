@@ -1,0 +1,4 @@
+.idea/
+__pycache__/
+market_database.db
+invoice_*.txt
